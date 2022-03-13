@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @takyeldin12345
-- 👀 I’m interested in Coding, Medicine, Workingout
+- 👀 I’m interested in Coding, Medicine, Working out
 - 🌱 I’m currently learning CS50x
 - 💞️ I’m looking to collaborate on simple coding projects to grow in experiance 
 - 📫 How to reach me ... Email:kftaky@gmail.com...Phone:6035609137
